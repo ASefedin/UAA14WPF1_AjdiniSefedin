@@ -1,0 +1,15 @@
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\bin\Debug\UAA14 WPF1_AjdiniSefedinEX2.exe.config
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\bin\Debug\UAA14 WPF1_AjdiniSefedinEX2.exe
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\bin\Debug\UAA14 WPF1_AjdiniSefedinEX2.pdb
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14 WPF1_AjdiniSefedinEX2.csproj.AssemblyReference.cache
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\MainWindow.g.cs
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\App.g.cs
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14 WPF1_AjdiniSefedinEX2_MarkupCompile.cache
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14 WPF1_AjdiniSefedinEX2_MarkupCompile.lref
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\MainWindow.baml
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14 WPF1_AjdiniSefedinEX2.g.resources
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14_WPF1_AjdiniSefedinEX2.Properties.Resources.resources
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14 WPF1_AjdiniSefedinEX2.csproj.GenerateResource.cache
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14 WPF1_AjdiniSefedinEX2.csproj.CoreCompileInputs.cache
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14 WPF1_AjdiniSefedinEX2.exe
+H:\UAA14 WPF1_AjdiniSefedin\UAA14 WPF1_AjdiniSefedinEX2\UAA14 WPF1_AjdiniSefedinEX2\obj\Debug\UAA14 WPF1_AjdiniSefedinEX2.pdb
